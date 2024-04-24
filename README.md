@@ -40,7 +40,9 @@ This commands includes
 ## Server:
 ![Screenshot 2024-04-24 184418](https://github.com/jayaseelan2006/4.Execution_of_NetworkCommends/assets/151389443/7e8ab8bd-b59c-44af-a012-24135ce0db4e)
 
-## 
+## Tracert:
+![Screenshot 2024-04-24 185142](https://github.com/jayaseelan2006/4.Execution_of_NetworkCommends/assets/151389443/12a9ba2b-6f72-464a-a226-046d6d26fd0e)
+
 
 
 ## Result
